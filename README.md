@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-End developing
 - 🌱 I’m currently learning HTMML|CSS|JavaScript
 - 💞️ I’m looking to collaborate on Open source projects
-- 📫 How to reach me @hoppyd1st and awoyinkaopeyemi4@gmail.com
+- 📫 How to reach me  twitter: @hoppyd1st and awoyinkaopeyemi4@gmail.com
 - 😄 Pronouns: HIM|HE
 - ⚡ Fun fact: Ability to use a wide variety of open source technologies and tools
 ● Good understanding of Web design principles and technologies
