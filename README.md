@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Awoyinka Opeyemi
 - 👀 I’m interested in Front-End developing
-- 🌱 I’m currently learning HTMML|CSS|JavaScript
+- 🌱 I’m currently learning HTML|CSS|JavaScript
 - 💞️ I’m looking to collaborate on Open source projects
 - 📫 How to reach me  twitter: @hoppyd1st and awoyinkaopeyemi4@gmail.com
 - 😄 Pronouns: HIM|HE
